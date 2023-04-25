@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1658399233 source:c:\users\student\desktop\new\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+
+1658420619 source:c:\users\student\onedrive\desktop\new\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<cstdlib>
+	<fstream>
+	<stdlib.h>
+
+1659886159 source:c:\users\student\onedrive\desktop\codeblocks projects\file handling\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<cstdlib>
+	<fstream>
+	<stdlib.h>
+
+1659886159 source:c:\users\kkaym\onedrive\desktop\codeblocks projects\file handling\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<cstdlib>
+	<fstream>
+	<stdlib.h>
+
